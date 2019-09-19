@@ -1,0 +1,37 @@
+﻿l_english:
+ TAI_infantry_weapons:0 "Chiang Kai-shek rifle"
+ TAI_infantry_weapons1:0 "Self-Made Type 57 Rifle"
+ TAI_infantry_weapons2:0 "T65K2"
+ TAI_infantry_weapons5:0 "XT98"
+ 
+ TAI_MBT_1:0 "CM-11 Brave Tiger"
+ TAI_MBT_2:0 "CM-12 "
+ TAI_MBT_4:0 "M1A2T"
+ TAI_Rec_tank_0:0 "M41D"
+ TAI_IFV_5:0 "CM-33"
+ TAI_IFV_6:0 "CM-34"
+ 
+ TAI_artillery_0:0 "T65 howitzer"
+ TAI_artillery_1:0 "T63 105mm howitzer"
+ 
+ TAI_transport_helicopter1:0 "UH-1H"
+ TAI_MR_Fighter3:0 "AIDC F-CK-1 C/D Hsiang Sheng" 
+ TAI_Light_Jet:0 "AIDC XA-3"
+ TAI_Air_UAV1:0 "CSIST Cardinal UAV"
+ TAI_Air_UAV2:0 "CSIST Chung Shyang II UAV"
+ TAI_L_Strike_fighter2:0 "AIDC T-5"
+ 
+ TAI_frigate_2:0 "Chi Yang-class"
+ TAI_missile_frigate_1:0 "Kang Ding-class"
+ TAI_missile_frigate_2:0 "Cheng Kung-class"
+ TAI_missile_corvette_2:0 "Ching Chiang-class"
+ TAI_missile_corvette_3:0 "Kuang Hua VI-class"
+ TAI_LHA_0:0 "Hsu Hai-class"  ##旭海級
+ TAI_LPD_0:0 "Newport-class"  ##新港級
+ 
+ 
+ 
+ 
+ 
+ 
+ 
