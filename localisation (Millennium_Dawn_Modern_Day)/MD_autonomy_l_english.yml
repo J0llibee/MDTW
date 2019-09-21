@@ -1,5 +1,5 @@
 ﻿l_english:
- #Autonomy levels
+ #Autonomy level
  autonomy_associated_state:0 "聯繫國"
  autonomy_satellite_state:0 "衛星國"
  autonomy_puppet_state:0 "傀儡"
