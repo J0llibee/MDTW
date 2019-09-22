@@ -12,7 +12,7 @@ https://steamcommunity.com/sharedfiles/filedetails/?id=1863795071
 Feel free to join our discord channel!!!!!!
 https://discord.gg/YujgDYU
 
-翻譯 english 那些已足夠，french german （）不用理會
+翻譯 english 那些已足夠，french german （法文德文yml）不用理會 
 
 Special thanks to 
 A_Han
