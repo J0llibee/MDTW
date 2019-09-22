@@ -15,11 +15,11 @@
  TAI_artillery_1:0 "T63 105mm 榴彈炮"
 
  TAI_transport_helicopter1:0 "UH-1H"
- TAI_MR_Fighter3:0 "AIDC F-CK-1 F-CK-1 C/D 雄鷹" 
- TAI_Light_Jet:0 "AIDC XA-3 雷鳴"
- TAI_Air_UAV1:0 "CSIST 紅雀"
- TAI_Air_UAV2:0 "CSIST 銳鳶"
- TAI_L_Strike_fighter2:0 "AIDC T-5"
+ TAI_MR_Fighter3:0 "漢翔航空工業 F-CK-1 F-CK-1 C/D 雄鷹" 
+ TAI_Light_Jet:0 "漢翔航空工業 XA-3 雷鳴"
+ TAI_Air_UAV1:0 "中科院 紅雀"
+ TAI_Air_UAV2:0 "中科院 銳鳶"
+ TAI_L_Strike_fighter2:0 "漢翔航空工業 T-5"
  
  TAI_frigate_2:0 "濟陽級"
  TAI_missile_frigate_1:0 "墾丁級"
