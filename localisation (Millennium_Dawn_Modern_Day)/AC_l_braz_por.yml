@@ -1,6 +1,6 @@
 ﻿l_braz_por:
- AC_DECISIONS:0 "Construction Projects"
- AC_DECISIONS_desc:0 "Our construction projects in allied countries."
+ AC_DECISIONS:0 "施工計劃"
+ AC_DECISIONS_desc:0 "在盟友上的施工計劃."
 
  AC_construction_CICx1_decision:0 "Constructing [?AC_build_amount_queue]x [AC_GetConstructionType] in [From.GetName]"
  AC_construction_CICx1_decision_desc:0 "Total time to finish queue: [?AC_total_construction_duration] days\nTotal construction speed modifier: x[?AC_construction_speed_display]\n\nRight click to see the target state."
