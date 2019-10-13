@@ -136,9 +136,9 @@
  #military-army
  BRA_ee_11:0 "EE 11"
  BRA_ee_11_desc:0 "我們的裝甲運兵車不但過時而且也沒有被充分利用。 讓我們另闢蹊徑來開發新的恩格薩系列裝甲運兵車。"
- BRA_acquire_new_equipment:0 "Acquire New Equipment"
+ BRA_acquire_new_equipment:0 "獲得新的裝備"
  BRA_acquire_new_equipment_desc:0 "Our local radio and command equipment could use some improvements. The era of smoke signals is over. The Junta would be disappointed."
- BRA_update_the_ifvs:0 "Update the IFVs"
+ BRA_update_the_ifvs:0 "升級步兵戰車"
  BRA_update_the_ifvs_desc:0 "IFVs are a modern tool that will minimize our use of heavier equipment such as tanks. It also provides light support for our infantry. We must upgrade them to remain relevant as a military force in the new century and beyond."
  BRA_decentralized_warfare:0 "Decentralized Warfare"
  BRA_decentralized_warfare_desc:0 "Unlike some other countries, we should take note form the Russians and Iranians. Their command structure is uncomplicated and small. Our army can model after this and respond quicker and more efficiently to combat our foes. "
