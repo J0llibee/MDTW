@@ -1,5 +1,5 @@
 ﻿l_english:
- AC_DECISIONS:0 "Construction Projects"
+ AC_DECISIONS:0 "施工計畫"
  AC_DECISIONS_desc:0 "Our construction projects in foreign countries. We currently have $[?ROOT.int_investments] §Hbillion§! in international investments."
  
  AC_construction_CIC_decision1:0 "Constructing Civilian Industry in [From.From.GetName], [From.GetName]"
